@@ -1,5 +1,7 @@
 Olá, eu sou Pedro Vieira! 👋
+
 Sobre Mim
+
 Sou estudante de Análise e Desenvolvimento de Sistemas na Faculdade Impacta, atualmente aprimorando minhas habilidades em programação e desenvolvimento de software. Minha jornada na tecnologia é guiada pela curiosidade e paixão por resolver problemas através do código.
 
 🎓 Educação
