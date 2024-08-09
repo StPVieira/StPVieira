@@ -15,7 +15,7 @@ Linguagens de Programação: Java, SQL
 
 Frameworks: Spring Boot
 
-Ferramentas: NetBeans, VSCode, Git, GitHub
+Ferramentas: IntelliJ, VSCode, Git, GitHub
 
 🚀 O que estou aprendendo
 
@@ -32,8 +32,6 @@ LinkedIn: https://www.linkedin.com/in/pedro-vieira-311745230/
 ⚡ Curiosidades
 
 Meu maior hobby é ler! Adoro uma ficção para distrair.
-
-Leio principalmente Progression Fantasy, Xianxia, Wuxia e Xuanhuan. Só a nata da leitura de qualidade. /s
 
 <!---
 StPVieira/StPVieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
