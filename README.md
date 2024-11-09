@@ -39,7 +39,7 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-PedroVieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohq-vieira/)](linkedin.com/in/pedrohq-vieira/)
+[![Linkedin](https://img.shields.io/badge/-Pedro%20Vieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohq-vieira/)](linkedin.com/in/pedrohq-vieira/)
 [![Gmail Badge](https://img.shields.io/badge/-pedrohq.vieira168@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrohq.vieira168@gmail.com)](mailto:pedrohq.vieira168@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/StPVieira?label=follow&style=social)](github.com/StPVieira)
 <!---
